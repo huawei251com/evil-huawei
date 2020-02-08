@@ -1,5 +1,5 @@
 <!-- This file is automatic generated, please edit template file instead. -->
-# Evil Huawei - 华为作过的恶 
+# Evil HW - HW作过的恶 
 
 ## 简介
 由于部分内容被控评和删帖，已经无法在中文互联网搜索到，所以本项目将收集华为作过的恶，记录这些不应该被遗忘的历史。
@@ -30,5 +30,4 @@
 - 尽可能的保证引用资料的可信度和客观性。
 - 尽可能的隐藏自己的真实身份，做最坏的打算。
 - 尽可能的隐藏自己的真实身份，避免使用自己的真实 GitHub 账号提交 Issue 和 PR，做最坏的打算。
-- 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到 evilhuawei@gmail.com。
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
